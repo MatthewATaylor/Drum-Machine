@@ -330,24 +330,68 @@
       "VCA"
     ],
     [
+      "662eb202-3821-4251-a82b-85d5c3a9d886",
+      "VCA"
+    ],
+    [
+      "f8163adc-4ca1-41ea-a44d-1362ddfe67ce",
+      "H2"
+    ],
+    [
+      "7fcf9fc8-415e-4ade-a35f-0ecf5fcc7b53",
+      "Amplitude Envelope"
+    ],
+    [
       "3afb3e87-d32a-4753-bc64-7b2aebc507e5",
       "T1"
+    ],
+    [
+      "4bd2c4b0-f707-4bd8-9a64-1a9cbededf6f",
+      "White Noise"
     ],
     [
       "1bdaa69b-85d5-42d7-85c2-9cbeea6e6715",
       "BD"
     ],
     [
+      "b09921bd-86e6-47f1-9696-b397f2479194",
+      "HPF"
+    ],
+    [
+      "1cb9db02-79bb-4e6e-9f31-aed30a81217b",
+      "Filter Envelope"
+    ],
+    [
+      "9fd3b344-5541-4134-81fc-3b54017cf610",
+      "Pitch Envelope"
+    ],
+    [
+      "fb177e03-2705-4ac2-a9d2-edcd7cfdfd76",
+      "VCA"
+    ],
+    [
+      "a64e4ded-c775-489a-9996-ddd97aa3988a",
+      "VCO"
+    ],
+    [
       "b469c0ad-fd2e-45b2-9d58-447b7a1c7cd0",
       "T2"
     ],
     [
+      "e2a305d1-05cd-4749-9d14-d5387425232b",
+      "White Noise"
+    ],
+    [
+      "cad44cf3-73a5-4089-9f73-d15a18624305",
+      "Amplitude Envelope"
+    ],
+    [
       "fa1ad489-f7c8-422f-a953-6312c47c29be",
-      "HH"
+      "H1"
     ],
     [
       "7fcf9fc8-415e-4ade-a35f-0ecf5fcc7b53",
-      "Ampliitude Envelope"
+      "Amplitude Envelope"
     ],
     [
       "4bd2c4b0-f707-4bd8-9a64-1a9cbededf6f",
@@ -355,19 +399,27 @@
     ],
     [
       "b09921bd-86e6-47f1-9696-b397f2479194",
+      "HPF"
+    ],
+    [
+      "ac273f01-78f0-4b95-aa69-0a5270437cb9",
+      "SD"
+    ],
+    [
+      "c0916b0d-b8c3-43a5-b6f4-664ca698caf2",
       "LPF"
     ],
     [
       "d9b30812-0896-44fc-829a-2a94a034c094",
-      "Ampliitude Envelope"
+      "Amplitude Envelope"
     ],
     [
       "d9b30812-0896-44fc-829a-2a94a034c094",
-      "Ampliitude Envelope"
+      "Amplitude Envelope"
     ],
     [
       "d9b30812-0896-44fc-829a-2a94a034c094",
-      "Ampliitude Envelope"
+      "Amplitude Envelope"
     ],
     [
       "722a7648-3a22-40b0-bef2-d97abf6fdda5",
