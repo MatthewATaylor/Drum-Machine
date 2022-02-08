@@ -1697,7 +1697,7 @@
     (uuid a6a565ec-bb1c-4aef-82c6-eb951a261746)
     (property "Reference" "C3503" (id 0) (at 90.17 69.85 90))
     (property "Value" "10n" (id 1) (at 90.17 72.39 90))
-    (property "Footprint" "" (id 2) (at 93.98 76.5048 0)
+    (property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm" (id 2) (at 93.98 76.5048 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 90.17 77.47 0)
